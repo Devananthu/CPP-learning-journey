@@ -7,9 +7,9 @@ Later, I explored **Python**, which expanded my ability to develop versatile and
 Now, I am diving into **C++**, aiming to combine the efficiency of C with the flexibility of modern programming features.  
 This repository will track my progress — from learning the basics to writing efficient, clean, and optimized C++ programs.
 
-📌 **Languages in My Journey:**  
+**Languages in My Journey:**  
 - C (First programming language, strong foundation)  
 - Python (High-level, versatile coding)  
 - C++ (Current focus — mastering OOP, STL, and competitive coding)  
 
-💡 *This is not just code — it’s my path toward becoming a better programmer.*
+*This is not just code — it’s my path toward becoming a better programmer.*
